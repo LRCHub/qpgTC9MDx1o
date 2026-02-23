@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Animals",
+  "base_artist": "Maroon 5",
+  "createdAt": "2026-02-23T05:44:52.322550Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Animals Were Gone",
+      "artist": "Damien Rice",
+      "has_synced": true,
+      "path": "select/01_The_Animals_Were_Gone_Damien_Rice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Really Love (feat. Craig David & Digital Farm Animals)",
+      "artist": "KSI feat. Craig David & Digital Farm Animals",
+      "has_synced": true,
+      "path": "select/02_Really_Love_(feat._Craig_David_&_Digital_Farm_Animals)_KSI_feat._Craig_David_&_Digital_Farm_Animals.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Really Love (feat. Craig David & Digital Farm Animals)",
+      "artist": "KSI",
+      "has_synced": true,
+      "path": "select/03_Really_Love_(feat._Craig_David_&_Digital_Farm_Animals)_KSI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Animals",
+      "artist": "Oneohtrix Point Never",
+      "has_synced": true,
+      "path": "select/04_Animals_Oneohtrix_Point_Never.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Animals",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/05_Animals_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Animals",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/06_Animals_Travis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Animals",
+      "artist": "Talking Heads",
+      "has_synced": false,
+      "path": "select/07_Animals_Talking_Heads.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bubblegum Animals",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": true,
+      "path": "select/08_Bubblegum_Animals_Black_Moth_Super_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Animals",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/09_The_Animals_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Animals",
+      "artist": "A. G. Cook",
+      "has_synced": true,
+      "path": "select/10_Animals_A._G._Cook.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Painting Animals In Watercolors",
+      "artist": "Alcoholic Faith Mission",
+      "has_synced": true,
+      "path": "select/11_Painting_Animals_In_Watercolors_Alcoholic_Faith_Mission.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Logical Animals",
+      "artist": "Trisomie 21",
+      "has_synced": false,
+      "path": "select/12_Logical_Animals_Trisomie_21.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tamer Animals (Atoms for Peace Remix)",
+      "artist": "Other Lives",
+      "has_synced": false,
+      "path": "select/13_Tamer_Animals_(Atoms_for_Peace_Remix)_Other_Lives.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hazey (feat. Rome Fortune) [Dave Glass Animals Rework]",
+      "artist": "Glass Animals",
+      "has_synced": false,
+      "path": "select/14_Hazey_(feat._Rome_Fortune)_[Dave_Glass_Animals_Rework]_Glass_Animals.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Animals",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/15_Animals_CocoRosie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Feed the Animals",
+      "artist": "Babylon Zoo",
+      "has_synced": true,
+      "path": "select/16_Don't_Feed_the_Animals_Babylon_Zoo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tears For Animals",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/17_Tears_For_Animals_CocoRosie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Animals",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/pl_01_Animals_Maroon_5.txt"
+    }
+  ]
+}
